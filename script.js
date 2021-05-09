@@ -1,1 +1,1 @@
-scrapbox.TimeStamp.addFormat('[YYYY/M]/D[]')
+scrapbox.TimeStamp.addFormat('[YYYY[]/M[]/D[]] ')
